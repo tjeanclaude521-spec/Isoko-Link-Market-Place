@@ -1,0 +1,10 @@
+{
+  "name": "Isoko Link",
+  "short_name": "Isoko Link",
+  "description": "Agricultural marketplace connecting farmers and buyers in Rwanda",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#047857",
+  "icons": []
+}

@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Allow: /browse
+Allow: /featured
+Allow: /about
+Allow: /contact
+Allow: /sell
+Allow: /assistant
+Allow: /product/
+Disallow: /login
+Disallow: /register
+Disallow: /admin
+Disallow: /admin/login
+Disallow: /farmer
+Disallow: /buyer
+
+Sitemap: https://isoko-link-agricultu-llbz.bolt.host/sitemap.xml
+Sitemap: https://ojfshwwfjpgirocwnqrq.supabase.co/functions/v1/sitemap

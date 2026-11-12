@@ -1,0 +1,25 @@
+{
+  "projectId": "71923770",
+  "functions": {
+    "admin-bootstrap": {
+      "hasChanged": false,
+      "hash": "dffccf8efcf2be82b1d6d9cbb2d0d21e04b50d71e7648eb68449c6cb38948744"
+    },
+    "admin-security": {
+      "hasChanged": false,
+      "hash": "0d25dd11d801dd7c7b6712dce594cf6a32476db8d5478a63c5626ddf9606ddeb"
+    },
+    "ai-assistant": {
+      "hasChanged": false,
+      "hash": "28005a794da1bf1aefe5a7562c75731ed815ed3b5a6188cb521f7fe02f404746"
+    },
+    "auth-gateway": {
+      "hasChanged": false,
+      "hash": "bdb6d76a6fb01fc7c3de44a87edc8d5aa7e7d629097d08322b9060e2be1f7393"
+    },
+    "sitemap": {
+      "hasChanged": false,
+      "hash": "1e7c9b84d130c6f1068913e48a2b22e12b48ab2cc606c1e4190c7df4d737448c"
+    }
+  }
+}

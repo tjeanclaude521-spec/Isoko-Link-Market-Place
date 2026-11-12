@@ -1,0 +1,15 @@
+[functions.ai-assistant]
+verify_jwt = false
+
+[functions.sitemap]
+verify_jwt = false
+
+[functions.auth-gateway]
+verify_jwt = false
+
+[functions.admin-security]
+verify_jwt = false
+
+[functions.admin-bootstrap]
+verify_jwt = false
+
